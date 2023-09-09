@@ -1,0 +1,27 @@
+[contenteditable="true"] {
+  background-color: rgb(206, 194, 194);
+}
+
+[contenteditable="true"]:focus {
+  background-color: white;
+}
+
+th {
+  font-size: 2vw;
+}
+p,
+ul {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2vw;
+}
+
+#container p {
+  display: inline;
+}
+
+ul:before {
+  content: attr(aria-label);
+  font-size: 120%;
+  font-weight: bold;
+  margin-left: -15px;
+}
