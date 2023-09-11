@@ -128,6 +128,37 @@ const bookLinks = [
       },
     ],
   },
+  {
+    section: "Multi Factor Authentication",
+    links: [
+      {
+        id: "google-multifactor",
+        href: "https://krebsonsecurity.com/2018/07/google-security-keys-neutralized-employee-phishing/",
+      },
+    ],
+  },
+  {
+    section: "Public Wi-Fi and Public Spaces",
+    links: [
+      {
+        id: "pineapple",
+        href: "https://www.techtarget.com/searchsecurity/definition/Wi-Fi-Pineapple",
+      },
+      {
+        id: "syria-hack",
+        href: "https://www.wired.com/2009/11/mossad-hack/",
+      },
+    ],
+  },
+  {
+    section: "Backing Up Your Photos",
+    links: [
+      {
+        id: "samsung",
+        href: "https://www.amazon.com/SAMSUNG-Portable-SSD-1TB-MU-PC1T0T/dp/B0874XN4D8?th=1",
+      },
+    ],
+  },
 ];
 
 bookLinks.forEach((linkSection) => {
