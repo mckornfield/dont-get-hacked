@@ -62,6 +62,72 @@ const bookLinks = [
       },
     ],
   },
+  {
+    section: "Unsecured Websites and Suspicious Links",
+    links: [
+      {
+        id: "s3-buckets",
+        href: "https://cybersecuritynews.com/hackers-leverage-websites-hosted-aws/#:~:text=Hackers%20use%20legitimate%20Amazon%20Web,security%20services%20and%20end%2Dusers.",
+      },
+    ],
+  },
+  {
+    section: "The Ten Commandments of Safe Web Surfing",
+    links: [
+      {
+        id: "urlvoid",
+        href: "https://urlvoid.com",
+      },
+      {
+        id: "checkshorturl",
+        href: "https://checkshorturl.com/",
+      },
+    ],
+  },
+  {
+    section: "Video Calls",
+    links: [
+      {
+        id: "panda-cover",
+        href: "https://www.amazon.com/PandaPrivacy-Universal-Webcam-Laptop-MacBook/dp/B07D3C3D7V",
+      },
+    ],
+  },
+  {
+    section: "Brute Force Password Attacks and Breaches",
+    links: [
+      {
+        id: "owasp",
+        href: "https://owasp.org/www-project-top-ten/",
+      },
+    ],
+  },
+  {
+    section: "System Exploits",
+    links: [
+      {
+        id: "credit-freeze",
+        href: "https://www.nerdwallet.com/article/finance/how-to-freeze-credit",
+      },
+    ],
+  },
+  {
+    section: "Password Managers",
+    links: [
+      {
+        id: "manager-choices",
+        href: "https://www.pcmag.com/picks/the-best-password-managers",
+      },
+      {
+        id: "keeper-setup",
+        href: "https://www.youtube.com/watch?v=QjTgduOAa_s",
+      },
+      {
+        id: "keepass",
+        href: "https://keepass.info/",
+      },
+    ],
+  },
 ];
 
 bookLinks.forEach((linkSection) => {
@@ -86,13 +152,29 @@ bookLinks.forEach((linkSection) => {
   });
 });
 
-if (window.location.hash) {
-  const elementWithHashId = document.getElementById(
-    window.location.hash.replace("#", "")
-  );
-  console.log(window.location.hash);
-  if (elementWithHashId) {
-    elementWithHashId.innerHTML =
-      "<mark>" + elementWithHashId.innerHTML + "</mark>";
+let lastMarkedElement = null;
+let htmlBeforeMark = null;
+function onHashChange(e) {
+  if (window.location.hash) {
+    const elementWithHashId = document.getElementById(
+      window.location.hash.replace("#", "")
+    );
+    //   console.log(window.location.hash);
+    if (elementWithHashId) {
+      if (lastMarkedElement) {
+        lastMarkedElement.innerHTML = htmlBeforeMark;
+      }
+      htmlBeforeMark = elementWithHashId.innerHTML;
+      elementWithHashId.innerHTML =
+        "<mark>" + elementWithHashId.innerHTML + "</mark>";
+      elementWithHashId.scrollTo({
+        top: 100,
+        left: 100,
+        behavior: "smooth",
+      });
+      lastMarkedElement = elementWithHashId;
+    }
   }
 }
+onHashChange();
+window.onhashchange = onHashChange;
