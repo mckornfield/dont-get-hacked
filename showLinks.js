@@ -67,7 +67,7 @@ const bookLinks = [
     links: [
       {
         id: "s3-buckets",
-        href: "https://cybersecuritynews.com/hackers-leverage-websites-hosted-aws/#:~:text=Hackers%20use%20legitimate%20Amazon%20Web,security%20services%20and%20end%2Dusers.",
+        href: "https://cybersecuritynews.com/hackers-leverage-websites-hosted-aws/",
       },
     ],
   },
