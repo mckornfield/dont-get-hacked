@@ -143,6 +143,10 @@ const bookLinks = [
         id: "google-multifactor",
         href: "https://krebsonsecurity.com/2018/07/google-security-keys-neutralized-employee-phishing/",
       },
+      {
+        id: "yubikey",
+        href: "https://www.amazon.com/Yubico-YubiKey-USB-Authentication-Security/dp/B07HBD71HL",
+      },
     ],
   },
   {
