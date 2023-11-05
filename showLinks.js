@@ -7,6 +7,14 @@ const bookLinks = [
         href: "https://timesofindia.indiatimes.com/world/rest-of-world/russia-china-north-korea-and-iran-leads-in-supporting-aggressive-cyber-attackers-says-holisticyber-ceo/articleshow/92779362.cms",
       },
       {
+        id: "ransomware",
+        href: "https://www.pbs.org/newshour/show/ransomware-hack-attacks-holding-data-hostage-avoid",
+      },
+      {
+        id: "credit-card-fraud",
+        href: "https://www.businessinsider.com/credit-card-phone-theft-sim-swap-identity-theft-investigation-2023-4",
+      },
+      {
         id: "web-growth",
         href: "https://www.elon.edu/u/imagining/time-capsule/150-years/back-1960-1990/",
       },
