@@ -171,6 +171,27 @@ const bookLinks = [
       },
     ],
   },
+  {
+    section: "Backing Up Your Computer and Phone",
+    links: [
+      {
+        id: "windows-backup",
+        href: "https://support.microsoft.com/en-us/windows/back-up-your-windows-pc-87a81f8a-78fa-456e-b521-ac0560e32338",
+      },
+      {
+        id: "mac-time-machine",
+        href: "https://support.apple.com/guide/mac-mini/back-up-and-restore-apdc6980d3be/mac",
+      },
+      {
+        id: "iphone-backup",
+        href: "https://support.apple.com/guide/iphone/back-up-iphone-iph3ecf67d29/ios",
+      },
+      {
+        id: "android-backup",
+        href: "https://support.google.com/googleone/answer/9149304?hl=en&co=GENIE.Platform%3DAndroid",
+      },
+    ],
+  },
 ];
 
 bookLinks.forEach((linkSection) => {
