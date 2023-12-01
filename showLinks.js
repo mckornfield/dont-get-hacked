@@ -223,7 +223,6 @@ function onHashChange(e) {
     const elementWithHashId = document.getElementById(
       window.location.hash.replace("#", "")
     );
-    //   console.log(window.location.hash);
     if (elementWithHashId) {
       if (lastMarkedElement) {
         lastMarkedElement.innerHTML = htmlBeforeMark;
