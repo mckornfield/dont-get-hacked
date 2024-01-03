@@ -25,7 +25,7 @@
 
 ### Find Your Tech buddy
 
-![](images/study.png)
+![buddy](images/study.png) <!-- .element height="30%" width="30%" -->
 
 1. Someone you _trust_
 1. Someone you can go can easily get in touch with
@@ -34,7 +34,7 @@
 
 ## Phishing
 
-- An attempt by an attacker to hook you
+_An attempt by an attacker to hook you_
 
 ![phishing icon](images/phishing_icon.png)
 
