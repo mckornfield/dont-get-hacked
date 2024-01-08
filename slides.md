@@ -12,7 +12,7 @@
 
 ## To Trust or Not to Trust
 
-## ![trust](images/trust.png)
+![trust](images/trust.png) <!-- .element height="30%" width="30%" -->
 
 --
 
@@ -36,7 +36,7 @@
 
 _An attempt by an attacker to hook you_
 
-![phishing icon](images/phishing_icon.png)
+![phishing icon](images/phishing_icon.png) <!-- .element height="30%" width="30%" -->
 
 --
 
@@ -52,7 +52,7 @@ _Scammer: Mr./Ms. \_\_\_\_, we did not receive your taxes here at the IRS. Not f
 
 _Mr./Ms. \_\_\_\_: Well, I did file my taxes, did they just not come through?_
 
-_Scammer: We never received them. Sir this is a pressing matter, and we need some information to continue… What is your social security number?_
+_Scammer: We never received them. Sir this is a pressing matter, and we need some information to continue... What is your social security number?_
 
 </section>
 
@@ -73,28 +73,28 @@ _Scammer: We never received them. Sir this is a pressing matter, and we need som
 
 - Unknown sender address
 - Either something enticing or threatening
-- Pretending to be something of authority
+- Pretending to be someone of authority
 
 --
 
 ## What to do?
 
-- Check with a tech buddy if you're suspicious
+- Check with a tech buddy if suspicious
 - Block the sender and report spam
 
 ---
 
 ## Social Engineering
 
-![janitor](images/janitor.png)
+![janitor](images/janitor.png) <!-- .element height="30%" width="30%" -->
 
 --
 
-## Ex: The "janitor" bank robber
+## The "janitor" bank robber
 
 1. A person with pretend authority
 1. Gains access to something secret
-1. Looks like they're meant to be there
+1. Appears as if meant to be there
 
 --
 
@@ -113,7 +113,7 @@ _Scammer: We never received them. Sir this is a pressing matter, and we need som
 
 ## Password Security
 
-![key](images/key.png)
+![key](images/key.png) <!-- .element height="30%" width="30%" -->
 
 --
 
@@ -126,7 +126,7 @@ _Scammer: We never received them. Sir this is a pressing matter, and we need som
 ## Accounts?
 
 - Accounts are your identity on the internet in a specific place
-- Someone who can access your account _can pretend to be you_
+- Someone who can access your account _can impersonate you_
 
 --
 
@@ -158,7 +158,7 @@ Ask your tech buddy!
 
 ## Authentication (MFA)
 
-![authentication](images/authentication.png)
+![authentication](images/authentication.png) <!-- .element height="30%" width="30%" -->
 
 --
 
@@ -175,8 +175,8 @@ A way to secure your account beyond a password
 1. Physical 2 Factor Keys
 1. Biometrics (Face ID, Thumbprint)
 1. Generated Codes (Authenticator Apps)
-1. Phone text messages/ phone calls
-1. Emailed codes
+1. Phone Text Messages/ Phone Calls
+1. Codes Received via Email
 
 --
 
