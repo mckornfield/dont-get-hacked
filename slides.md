@@ -4,9 +4,9 @@
 
 ## Who am I?
 
-![biography image](images/bio.jpg)
+![biography image](images/bio.jpg) <!-- .element height="30%" width="30%" -->
 
-- an IT professional with experience helping older folks deal with all sorts of IT problems.
+- an IT professional with experience helping older folks deal with IT problems.
 
 ---
 
@@ -44,7 +44,21 @@ _An attempt by an attacker to hook you_
 
 --
 
-## ![First phishing image](images/phishing1.svg) <!-- .element height="100%" width="100%" -->
+Phone conversation:
+
+<section style="text-align: left;">
+
+_Scammer: Mr./Ms. \_\_\_\_, we did not receive your taxes here at the IRS. Not filing your taxes on time can result in multiple penalties. month._
+
+_Mr./Ms. \_\_\_\_: Well, I did file my taxes, did they just not come through?_
+
+_Scammer: We never received them. Sir this is a pressing matter, and we need some information to continue… What is your social security number?_
+
+</section>
+
+--
+
+![First phishing image](images/phishing1.svg) <!-- .element height="100%" width="100%" -->
 
 --
 ![Second phishing image](images/phishing2.svg) <!-- .element height="150%" width="100%" -->
