@@ -48,7 +48,7 @@ Phone conversation:
 
 <section style="text-align: left;">
 
-_Scammer: Mr./Ms. \_\_\_\_, we did not receive your taxes here at the IRS. Not filing your taxes on time can result in multiple penalties. month._
+_Scammer: Mr./Ms. \_\_\_\_, we did not receive your taxes here at the IRS. Not filing your taxes on time can result in significant financial penalties._
 
 _Mr./Ms. \_\_\_\_: Well, I did file my taxes, did they just not come through?_
 
@@ -102,6 +102,7 @@ _Scammer: We never received them. Sir this is a pressing matter, and we need som
 
 - "You have a virus, please download this app to let us screenshare and fix it"
 - "Your Tax Returns were never received by the IRS, please follow these instructions to resubmit them."
+- (Catfishing) "I love you and I want to move to the US, I just need money to make it happen."
 
 --
 
