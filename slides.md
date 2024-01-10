@@ -101,7 +101,7 @@ _Scammer: We never received them. Sir this is a pressing matter, and we need som
 ## Social Engineering Examples
 
 - "You have a virus, please download this app to let us screenshare and fix it"
-- "Your Tax Returns were never received by the IRS, please follow these instructions to resubmit them."
+- "Your account has been hacked, please work with our IT support to unfreeze it."
 - (Catfishing) "I love you and I want to move to the US, I just need money to make it happen."
 
 --
