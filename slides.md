@@ -131,6 +131,14 @@ _Scammer: We never received them. Sir this is a pressing matter, and we need som
 
 --
 
+## Accounts compromises
+
+- Data breaches
+- Brute force attacks
+- Credential stuffing
+
+--
+
 ## Golden Rules of Account Security
 
 - Never reuse the same password
@@ -140,7 +148,13 @@ _Scammer: We never received them. Sir this is a pressing matter, and we need som
 
 ## Best way to accomplish the above?
 
-A Password Manager!
+- A Password Manager
+
+--
+
+## LastPass (as an example)
+
+![password manager example](images/password_manager.png)
 
 --
 
@@ -185,6 +199,10 @@ A way to secure your account beyond a password
 
 The strongest you can!
 ![yubikey](images/yubikey.png)
+
+--
+
+![biometrics](images/biometrics.png)
 
 ---
 
