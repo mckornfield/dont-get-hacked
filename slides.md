@@ -8,6 +8,16 @@
 
 - an IT professional with experience helping older folks deal with IT problems.
 
+--
+
+## Agenda
+
+- To Trust or Not to Trust
+- Phishing
+- Social Engineering
+- Password Security
+- Multifactor Authentication
+
 ---
 
 ## To Trust or Not to Trust
@@ -171,7 +181,7 @@ Ask your tech buddy!
 
 ## MultiFactor
 
-## Authentication (MFA)
+## Authentication (MFA/2Factor)
 
 ![authentication](images/authentication.png) <!-- .element height="30%" width="30%" -->
 
