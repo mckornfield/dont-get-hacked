@@ -92,7 +92,9 @@ _Scammer: We never received them. Sir this is a pressing matter, and we need som
 - Check with a tech buddy if suspicious
 - Block the sender and report spam
 
----
+![breathe](images/breathe.png) <!-- .element height="10%" width="10%" -->
+
+--
 
 ## Social Engineering
 
@@ -160,6 +162,8 @@ _Scammer: We never received them. Sir this is a pressing matter, and we need som
 
 - A Password Manager
 
+![breathe](images/breathe.png) <!-- .element height="10%" width="10%" -->
+
 --
 
 ## LastPass (as an example)
@@ -191,6 +195,8 @@ Ask your tech buddy!
 
 A way to secure your account beyond a password
 
+![breathe](images/breathe.png) <!-- .element height="10%" width="10%" -->
+
 --
 
 ## What kinds are there?
@@ -217,6 +223,10 @@ The strongest you can!
 ---
 
 ## Questions?
+
+## /
+
+## Stories Folks Want to Share?
 
 --
 
