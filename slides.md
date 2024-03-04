@@ -126,13 +126,13 @@ _Scammer: We never received them. Sir this is a pressing matter, and we need som
 
 ## Password Security
 
-![key](images/key.png) <!-- .element height="30%" width="30%" -->
+![key](images/key.png) <!-- .element height="50%" width="50%" -->
 
 --
 
 ## What's the Internet?
 
-<iframe width="1927" height="672" src="https://www.youtube.com/embed/s92IDLfRRyc" title="Ralph Breaks the Internet | &quot;We Are In The Internet&quot; Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![ralph_breaks_the_internet_gif](images/Ralph_Breaks_the_Internet_We_Are_In_The_Internet_Clip.gif)
 
 --
 
