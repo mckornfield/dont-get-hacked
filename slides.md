@@ -12,11 +12,26 @@
 
 ## Agenda
 
+- TL;DR
 - To Trust or Not to Trust
 - Phishing
 - Social Engineering
 - Password Security
 - Multifactor Authentication
+- Recap
+
+---
+
+## Too Long; Didn't Read (TL;DR)
+
+1. Avoid the bad things on the internet (Diet)
+
+![fast-food](images/fast-food_738079.png) <!-- .element height="30%" width="30%" -->
+--
+
+2. Embrace tools that make things more secure (Exercise)
+
+![weightlifting](images/weightlifting_185590.png) <!-- .element height="30%" width="30%" -->
 
 ---
 
@@ -26,10 +41,16 @@
 
 --
 
-### Default: Don't Trust Anyone
+### Question: Who should you trust online?
+
+--
+
+### Answer: NO ONE
 
 - Scammers are everywhere
 - Scammers are persistent
+
+![babu](images/finger-shake-babu.gif)
 
 --
 
@@ -38,7 +59,16 @@
 ![buddy](images/study.png) <!-- .element height="30%" width="30%" -->
 
 1. Someone you _trust_
-1. Someone you can go can easily get in touch with
+1. Someone you can go can easily get in touch with (friend, family member, neighbor)
+
+--
+
+### What to do when bad things happen?
+
+1. Close the device/ turn it off/ unplug it
+1. Find/contact your tech buddy and tell them what happened
+
+![ghostbusters](images/ghostbusters.jpeg) <!-- .element height="40%" width="40%" -->
 
 ---
 
@@ -50,19 +80,25 @@ _An attempt by an attacker to hook you_
 
 --
 
+## They are EVERYWHERE
+
+![phishing_oprah](images/phishing_oprah.jpeg)
+
+--
+
 ## Phishing Examples
 
 --
 
-Phone conversation:
+Phone conversation example:
 
 <section style="text-align: left;">
 
-_Scammer: Mr./Ms. \_\_\_\_, we did not receive your taxes here at the IRS. Not filing your taxes on time can result in significant financial penalties._
+_Scammer: Mr./Ms. \_\_\_\_, we did not receive your taxes here at the IRS. You could be in big trouble!_
 
 _Mr./Ms. \_\_\_\_: Well, I did file my taxes, did they just not come through?_
 
-_Scammer: We never received them. Sir this is a pressing matter, and we need some information to continue... What is your social security number?_
+_Scammer: We never received them. Sir/Ma'm this is a pressing matter, to continue... What is your social security number?_
 
 </section>
 
@@ -89,7 +125,7 @@ _Scammer: We never received them. Sir this is a pressing matter, and we need som
 
 ## What to do?
 
-- Check with a tech buddy if suspicious
+- Check with a tech buddy if you are suspicious
 - Block the sender and report spam
 
 ![breathe](images/breathe.png) <!-- .element height="10%" width="10%" -->
@@ -107,6 +143,10 @@ _Scammer: We never received them. Sir this is a pressing matter, and we need som
 1. A person with pretend authority
 1. Gains access to something secret
 1. Appears as if meant to be there
+
+--
+
+![scrubs_janitor](images/scrubs_janitor.jpeg)
 
 --
 
@@ -130,39 +170,38 @@ _Scammer: We never received them. Sir this is a pressing matter, and we need som
 
 --
 
-## What's the Internet?
-
-![ralph_breaks_the_internet_gif](images/Ralph_Breaks_the_Internet_We_Are_In_The_Internet_Clip.gif)
+![ralph_breaks_the_internet_gif](images/Ralph_Breaks_the_Internet_We_Are_In_The_Internet_Clip.gif) <!-- .element height="100%" width="100%" -->
 
 --
 
 ## Accounts?
 
-- Accounts are your identity on the internet in a specific place
-- Someone who can access your account _can impersonate you_
+- Your identity on the internet, per website
+- Whoever can access your account _can **be** you_
 
 --
 
 ## Accounts compromises
 
-- Data breaches
-- Brute force attacks
-- Credential stuffing
+- Data breaches (stuff leaked)
+- Brute force attacks (bots guess your password)
+- Credential stuffing (bots reuse your password)
+
+![spy_vs_spy](images/Spy_Vs_Spy.webp) <!-- .element height="30%" width="30%" -->
 
 --
 
-## Golden Rules of Account Security
+## Golden Rules of Passwords
 
-- Never reuse the same password
-- Never use a weak, easy to guess password
+![golden_rules](images/golden_rules.jpeg)
 
 --
 
-## Best way to accomplish the above?
+## Best way to follow the rules?
 
 - A Password Manager
 
-![breathe](images/breathe.png) <!-- .element height="10%" width="10%" -->
+![office_space_manager](images/office_space_manager.jpeg) <!-- .element height="50%" width="50%" -->
 
 --
 
@@ -199,6 +238,15 @@ A way to secure your account beyond a password
 
 --
 
+## Example: The Doorman
+
+- Your Key == Password
+- Another Factor == The Doorman
+
+![doorman](images/doorman.jpeg)
+
+--
+
 ## What kinds are there?
 
 (From strongest to weakest)
@@ -222,9 +270,24 @@ The strongest you can!
 
 ---
 
-## Questions?
+## Recap
 
-## /
+![patrick_raised_hand](images/patrick_hand_raise.png)
+
+--
+
+- _Keep the bad things out_ with the help of your **tech buddy** + **knowing what to avoid** (diet)
+- _Keep your accounts secure_ with a **password manager** and **multifactor authentication** (exercise)
+
+--
+
+![fast-food](images/fast-food_738079.png) <!-- .element height="30%" width="30%" -->
+
+![weightlifting](images/weightlifting_185590.png) <!-- .element height="30%" width="30%" -->
+
+---
+
+## Questions?
 
 ## Stories Folks Want to Share?
 
@@ -243,3 +306,5 @@ The strongest you can!
 <a href="https://www.flaticon.com/free-icons/password" title="password icons">Password icons created by Freepik - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/authentication" title="authentication icons">Authentication icons created by monkik - Flaticon</a>
+
+<a href="https://www.freepik.com/search">Icon by Freepik</a>
